@@ -31,6 +31,7 @@ Here are some ideas to get you started:
  
 </p>
 
+![Codemaker2015 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tripur3121&layout=compact&theme=blue-green)
 
 
 
