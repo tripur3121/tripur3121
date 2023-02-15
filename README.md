@@ -1,23 +1,8 @@
-<h1 align="center"><b>Hi , I'm Tripur Joshi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-   
-   
-<h4 align="center">Visitor's count 👀</h4>
+<h1 align="center"><b>Hi , I'm Tripur Joshi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
+ <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{tripur3121}/count.svg" alt="tripur3121 :: Visitor's Count" /></p>
 <br/>
-<!--
-**tripur3121/tripur3121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Blockchain
-- 🌱 I’m currently learning everythig.
-- 👯 I’m looking to collaborate on Open-Source Projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Technical+Writer..&hearts;++;Self-taught+Blockchain+Researcher,;Computer+Science+Student,;Painter,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
  </p>
