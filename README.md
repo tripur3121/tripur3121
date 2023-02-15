@@ -1,5 +1,9 @@
 <h1 align="center"><b>Hi , I'm Tripur Joshi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
+   
+   
+<h4 align="center">Visitor's count 👀</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{tripur3121}/count.svg" alt="tripur3121 :: Visitor's Count" /></p>
+<br/>
 <!--
 **tripur3121/tripur3121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
