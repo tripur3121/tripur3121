@@ -37,7 +37,7 @@
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripur3121&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true" />
 </p>
 
- 
+ ![footer](https://user-images.githubusercontent.com/59575502/127335603-f2ca1bc8-1fdc-4bd6-8dd6-66358fb089a4.png)
   
    
  
