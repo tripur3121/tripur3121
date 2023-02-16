@@ -1,12 +1,12 @@
 <h1 align="center"><b>Hi , I'm Tripur Joshi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
- <h4 align="center">Visitor's count 👀</h4>
+ <hr><h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{tripur3121}/count.svg" alt="tripur3121 :: Visitor's Count" /></p>
 <br/>
-
+<hr>
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Technical+Writer..&hearts;++;Self-taught+Blockchain+Researcher,;Computer+Science+Student,;Painter,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
  </p>
- 
+ <hr>
 <h3 align="center">Languages and Tools :</h3>
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -36,7 +36,8 @@
  <p align="center">
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripur3121&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true" />
 </p>
-
+<hr>
+ 
  ![footer](https://user-images.githubusercontent.com/59575502/127335603-f2ca1bc8-1fdc-4bd6-8dd6-66358fb089a4.png)
   
    
