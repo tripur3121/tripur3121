@@ -4,7 +4,7 @@
 <br/>
 <hr>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Technical+Writer..&hearts;++;Self-taught+Blockchain+Researcher,;Computer+Science+Student,;Painter,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Technical+Writer..&hearts;++;Self-taught+Blockchain+Researcher,;Computer+Science+Student,;Painter,+Writer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
  </p>
  
 <h4>Languages and Tools :</h4>
