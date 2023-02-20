@@ -28,7 +28,7 @@
 <br /><br /><br />
 <hr>
 
-<h4>Some Stats :<h4>
+<h3>Some Stats :<h3>
 
   
   
