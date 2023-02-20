@@ -26,8 +26,10 @@
 
 
 <br /><br /><br />
-<h4>Some Stats :<h4>
 <hr>
+
+<h4>Some Stats :<h4>
+
   
   
   <p align="center">
