@@ -39,6 +39,16 @@
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripur3121&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true" />
 </p>
 <hr>
+<div align="center">
+<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
+</h3> 
+<p align="center">
+    <a href="https://www.linkedin.com/in/tripurjoshi/" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
+    <a href="https://instagram.com/time_of_presence?igshid=ZDdkNTZiNTM=" target="_blank"><img alt="Instagram" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"></a>
+     <a href="mailto:tripurjoshi3121@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
+</p>  
+ 
+ <hr>
  
  ![footer](https://user-images.githubusercontent.com/59575502/127335603-f2ca1bc8-1fdc-4bd6-8dd6-66358fb089a4.png)
   
