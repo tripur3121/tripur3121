@@ -48,6 +48,10 @@
      <a href="mailto:tripurjoshi3121@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
 </p>  
  
+
+ 
+ 
+ 
  <hr>
  
  ![footer](https://user-images.githubusercontent.com/59575502/127335603-f2ca1bc8-1fdc-4bd6-8dd6-66358fb089a4.png)
