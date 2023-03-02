@@ -1,11 +1,23 @@
 <h1 align="center"><b>Hi, I'm Tripur Joshi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
- <hr><h4 align="center">Visitor's count 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{tripur3121}/count.svg" alt="tripur3121 :: Visitor's Count" /></p>
+ <hr><h4 align="left">Visitor's count 👀</h4>
+<p align="left"><img src="https://profile-counter.glitch.me/{tripur3121}/count.svg" alt="tripur3121 :: Visitor's Count" /></p>
 
-<hr>
-<p align="center">
+
+<p align="right">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Technical+Writer..&hearts;++;Self-taught+Blockchain+Researcher,;Computer+Science+Student,;Painter,+Writer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
  </p>
+ 
+ 
+ 
+ <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+
+- 🔭 I’m currently working on **Blog writing**
+- 🌱 I’m currently learning ... **Python and Rust**
+- 💬 Ask me about ... **Blockchain**
+- 😄 Employement ... **Open for intern opportunities**
+- ⚡ Fun fact ... **Love Reading**❤
+- 📫 How to reach me **tripurjoshi3121@gmail.com**
  <hr>
 <h5>Languages and Tools :</h5>
 
