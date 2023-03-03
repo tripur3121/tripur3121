@@ -18,7 +18,7 @@
 - 😄 Employement ... **Open for intern opportunities**
 - ⚡ Fun fact ... **Love Reading**❤
 - 📫 How to reach me **tripurjoshi3121@gmail.com**
- <hr>
+ 
 <h5>Languages and Tools :</h5>
 
 <p align="center">
