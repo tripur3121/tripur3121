@@ -1,25 +1,28 @@
 <!--The gif of cat and link github-->
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" align="left" ><h1 align="center"><b>Hi, I'm Tripur Joshi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1> 
- <h4 align="left">Visitor's count 👀</h4>
-<p align="left"><img src="https://profile-counter.glitch.me/{tripur3121}/count.svg" alt="tripur3121 :: Visitor's Count" /></p>
-<p align="right"> 
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Technical+Writer..&hearts;++;Self-taught+Blockchain+Researcher,;Computer+Science+Student,;Painter,+Writer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
- </p>
- 
- 
- 
+
+<!-- Visitor's count -->
+ <h4 align="center">Visitor's count 👀</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{tripur3121}/count.svg" alt="tripur3121 :: Visitor's Count" /></p>
+
+ <!-- GitHub leading the way Image --> 
  <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-
+<!-- About Me Section -->
 - 🔭 I’m currently working on **Blog writing**
-- 🌱 I’m currently learning ... **Python and Rust**
+- 🌱 Learning all about **Open Source**
 - 💬 Ask me about ... **Blockchain**
 - 😄 Employement ... **Open for intern opportunities**
 - ⚡ Fun fact ... **Love Reading**❤
 - 📫 How to reach me **tripurjoshi3121@gmail.com**
- 
-<h5>Languages and Tools :</h5>
 
+ <!-- Moving Sentences -->
+<p align="center"> 
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Technical+Writer..&hearts;++;Self-taught+Blockchain+Researcher,;Computer+Science+Student,;Painter,+Writer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+ </p> 
+ 
+ <!-- Tech Stack -->
+<h5>Languages and Tools :</h5>
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -32,22 +35,21 @@
  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
  <a href="//https://www.rust-lang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/> </a>
  <a href="https://solana.com/" target="_blank"> <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=013" alt="solana" width="40" height="40"/> </a>
- 
 </p>
-
-
-<br /><br /><br />
+<br/><br/><br/>
 <hr>
-<h3>Some Stats :</h3>
 
-  
-  
-  <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=tripur3121&theme=algolia&show_icons=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tripur3121&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true&count_private=true" />
+<!-- Stats Cards -->
+<h3>Some Stats :</h3>
+<!--Card 1-->
+<p align="center">
+<img width="46%" src="https://github-readme-stats.vercel.app/api?username=tripur3121&theme=synthwave&show_icons=true" />
+<!--Card 2 -->
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tripur3121&show_icons=true&locale=en&layout=compact&theme=synthwave&hide_border=true&count_private=true" />
  </p>
+ <!--Card 3-->
  <p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripur3121&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true" />
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripur3121&show_icons=true&locale=en&layout=compact&theme=synthwave&hide_border=true" />
 </p>
 <hr>
 <div align="center">
