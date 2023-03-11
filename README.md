@@ -36,6 +36,7 @@
  <a href="//https://www.rust-lang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/> </a>
 <a herf ="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="40" height="40"/></a> 
  <a href="https://solana.com/" target="_blank"> <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=013" alt="solana" width="40" height="40"/> </a>
+<a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" width="40" height="40"/></a>
 </p>
 <br/><br/><br/>
 <hr>
