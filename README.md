@@ -2,8 +2,8 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" align="left" ><h1 align="center"><b>Hi, I'm Tripur Joshi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1> 
 
 <!-- Visitor's count -->
- <h4 align="center">Visitor's count 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{tripur3121}/count.svg" alt="tripur3121 :: Visitor's Count" /></p>
+<!--  <h4 align="center">Visitor's count 👀</h4 -->
+<!-- <p align="center"><img src="https://profile-counter.glitch.me/{tripur3121}/count.svg" alt="tripur3121 :: Visitor's Count" /></p> -->
 
  <!-- GitHub leading the way Image --> 
  <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
