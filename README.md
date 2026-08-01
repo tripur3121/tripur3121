@@ -51,23 +51,7 @@
 <br/><br/><br/>
 <hr>
 
-<!-- Stats Cards -->
-<h3>Some Stats :</h3>
-<!--Card 1-->
-<p align="center">
-<img width="46%" src="https://github-readme-stats.vercel.app/api?username=tripur3121&theme=synthwave&show_icons=true" />
-<!--Card 2 -->
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tripur3121&show_icons=true&locale=en&layout=compact&theme=synthwave&hide_border=true&count_private=true" />
- </p>
- <!--Card 3-->
- <p align="center">
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripur3121&show_icons=true&locale=en&layout=compact&theme=synthwave&hide_border=true" />
-</p>
-<hr>
-<div align="center">
-<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
 
-<!-- Socials -->
  <div align="center">
 	<a href="https://tripur.hashnode.dev/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" title="WebSite" alt="Hashnode"/></a>
 	<a href="https://github.com/tripur3121" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title="Github Profile" alt="GitHub"/></a>
