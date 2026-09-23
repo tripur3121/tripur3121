@@ -56,7 +56,6 @@
 	<a href="https://github.com/tripur3121" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title="Github Profile" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/tripurjoshi/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title="Linkedin Profile" alt="LinkedIn"/></a>
 	
-	<a href="mailto:tripurjoshi3121@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title="Email Me:" alt="Gmail"/></a>
 </div>
 
  
