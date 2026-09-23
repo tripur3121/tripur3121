@@ -6,7 +6,6 @@
 <!-- <p align="center"><img src="https://profile-counter.glitch.me/{tripur3121}/count.svg" alt="tripur3121 :: Visitor's Count" /></p> -->
 
  <!-- GitHub leading the way Image --> 
- <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <!-- About Me Section -->
 - I’m currently working on **Blog writing**
