@@ -9,11 +9,10 @@
  <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <!-- About Me Section -->
-- 🔭 I’m currently working on **Blog writing**
-- 🌱 Learning all about **Open Source**
-- 💬 Ask me about ... **Blockchain**
-- 😄 Employement ... **Open for intern opportunities**
-- ⚡ Fun fact ... **Love Reading**❤
+- I’m currently working on **Blog writing**
+- Learning all about **Open Source**
+- Ask me about ... **Blockchain**
+- Employement ... **Open for intern opportunities**
 - 📫 How to reach me **tripurjoshi3121@gmail.com**
 
  <!-- Moving Sentences -->
