@@ -1,0 +1,68 @@
+@import "tailwindcss";
+
+/*
+ * Soft UI (neumorphism) with a pastel palette.
+ * Surfaces share one base color; depth comes from paired light and dark shadows.
+ * Text stays dark slate so contrast remains readable on the soft surfaces.
+ */
+@theme {
+  --color-base: #e9edf6;
+  --color-base-deep: #dfe4f0;
+  --color-ink: #353a5c;
+  --color-ink-soft: #5d6384;
+
+  --color-lavender: #c9bdf5;
+  --color-mint: #b5ecd5;
+  --color-peach: #ffd5c0;
+  --color-sky: #b8defa;
+  --color-rose: #f7c0d1;
+  --color-butter: #fbe9b0;
+
+  --color-accent: #7d6bd6;
+  --color-danger: #c4506f;
+
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+
+  --shadow-raised: 8px 8px 16px #c5cbe0, -8px -8px 16px #ffffff;
+  --shadow-raised-sm: 4px 4px 9px #c5cbe0, -4px -4px 9px #ffffff;
+  --shadow-inset: inset 5px 5px 10px #c5cbe0, inset -5px -5px 10px #ffffff;
+  --shadow-inset-sm: inset 3px 3px 6px #c5cbe0, inset -3px -3px 6px #ffffff;
+}
+
+html {
+  background: var(--color-base);
+}
+
+body {
+  min-height: 100dvh;
+  background: var(--color-base);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+}
+
+@layer components {
+  .neu-card {
+    @apply rounded-3xl bg-base shadow-raised;
+  }
+  .neu-card-sm {
+    @apply rounded-2xl bg-base shadow-raised-sm;
+  }
+  .neu-inset {
+    @apply rounded-2xl bg-base shadow-inset;
+  }
+  .neu-input {
+    @apply w-full rounded-2xl bg-base px-4 py-2.5 text-ink shadow-inset-sm outline-none placeholder:text-ink-soft/70 focus-visible:ring-2 focus-visible:ring-accent/60;
+  }
+  .neu-btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-2xl bg-base px-4 py-2.5 text-sm font-medium text-ink shadow-raised-sm transition active:shadow-inset-sm focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent/60 disabled:pointer-events-none disabled:opacity-50;
+  }
+  .neu-btn-primary {
+    @apply neu-btn bg-lavender;
+  }
+  .neu-btn-danger {
+    @apply neu-btn text-danger;
+  }
+  .neu-chip {
+    @apply inline-flex items-center rounded-full px-3 py-1 text-xs font-medium text-ink shadow-raised-sm;
+  }
+}
